@@ -1,0 +1,23 @@
+body{
+    background-color: linear-gradient(#7400B8 0%, #6930C3 50%, #5E60CE 100%);
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h4{
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#camera{
+    width: 400px;
+    height: 600px;
+}
+
+img{
+    width: 400;
+    border-radius: 1000;
+    border-style: dotted;
+}
